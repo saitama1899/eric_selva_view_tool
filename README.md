@@ -7,7 +7,7 @@
 Add this line to your application's Gemfile:
 
 ```ruby
-    gem 'eric_selva_view_tool', git: 'https://github.com/saitama1899/eric_selva_view_tool.git'
+    gem 'eric_selva_view_tool'
 ```
 
 And then execute:

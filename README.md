@@ -7,7 +7,7 @@
 Add this line to your application's Gemfile:
 
 ```ruby
-    gem 'eric_selva_view_tool'
+    gem 'eric_selva_view_tool', '~> 0.1.2'
 ```
 
 And then execute:

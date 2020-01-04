@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+    EricSelvaViewTool::Renderer.copyright 'Eric Selva', 'All rights reserved'
+```
 
 ## Development
 
